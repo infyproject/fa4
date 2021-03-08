@@ -34,5 +34,5 @@ git pull origin <branch-name>
 //merge the branch to master
 
 git checkout master
-$ git merge <branch-name>
+git merge <branch-name>
 
